@@ -253,9 +253,9 @@ This project is primarily a learning and demonstration application.
 
 It currently uses a relatively simple ReAct agent architecture and a small set of external tools. It is not intended to represent a production-grade autonomous agent system.
 
-## 👨‍💻 Author
+## 👨‍💻 Developed by
 
-**Tumburu Chandu**
+**Chandu Tumburu**
 
 GitHub:
 https://github.com/tumburuchandu
