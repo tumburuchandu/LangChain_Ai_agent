@@ -20,7 +20,7 @@ os.environ["SSL_CERT_FILE"] = certifi.where()
 
 load_dotenv()
 
-GOOGLE_API_KEY = os.getenv("Google_API_KEY")
+GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
 TAVILY_API_KEY = os.getenv("TAVILY_API_KEY")
 WEATHER_API_KEY = os.getenv("WEATHER_FORECAST_API_KEY")
 
