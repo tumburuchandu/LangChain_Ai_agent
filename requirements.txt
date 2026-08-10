@@ -1,10 +1,11 @@
+
 streamlit
-langchain==0.1.16
-langchain-community==0.0.32
-langchain-core==0.1.42
+langchain
+langchain-community
+langchain-core
 langchain-google-genai
+langchainhub
 tavily-python
 python-dotenv
 requests
 certifi
-langchainhub
